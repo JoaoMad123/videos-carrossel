@@ -1,0 +1,21 @@
+Política de Privacidade – videos-carrossel
+Última atualização: Novembro de 2026
+
+1. Informações Coletadas
+O aplicativo videos-carrossel coleta apenas as informações estritamente necessárias para o seu funcionamento via API oficial do TikTok:
+  • Dados básicos do perfil (user.info.basic) para identificar a conta autenticada.
+  • Tokens de acesso (access_token e refresh_token) para manter a sessão autorizada.
+
+2. Uso das Informações
+Os dados e permissões concedidos (video.upload) são utilizados exclusivamente para transferir vídeos e mídias gerados pelo próprio usuário para a área de rascunhos da sua conta no TikTok.
+
+3. Armazenamento e Compartilhamento
+  • Não vendemos, alugamos ou compartilhamos seus dados pessoais ou tokens de acesso com terceiros.
+  • Os tokens de autenticação são armazenados de forma segura apenas durante o período necessário para a execução das automações configuradas pelo usuário.
+  • Os arquivos de vídeo processados não são armazenados permanentemente em servidores externos após o envio ao TikTok.
+
+4. Revogação de Acesso e Exclusão de Dados
+Você pode revogar o acesso deste aplicativo a qualquer momento acessando o aplicativo do TikTok em: Perfil > Configurações e privacidade > Segurança e permissões > Gerenciar permissões de aplicativos. Ao revogar o acesso, os tokens armazenados tornam-se inválidos imediatamente.
+
+5. Contato
+Para dúvidas sobre esta Política de Privacidade ou solicitação de exclusão de dados, entre em contato pelo e-mail: [gameviewtcc@gmail.com].
